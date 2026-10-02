@@ -128,3 +128,16 @@ Customer-Data-Cleaning/
 │
 └── README.md
 ```
+## Output
+
+The cleaned dataset is available in:
+
+cleaned_data/customer_data_cleaned.csv
+
+A data quality report is available in:
+
+reports/data_quality_report.csv
+
+## Conclusion
+
+The customer dataset was inspected and cleaned for missing values, duplicate records, incorrect data types, inconsistent categorical values and invalid numerical values. The final cleaned dataset is ready for further analysis and visualization.
