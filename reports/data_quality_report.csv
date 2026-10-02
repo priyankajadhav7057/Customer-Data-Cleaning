@@ -1,0 +1,16 @@
+Column,Data_Type,Missing_Values,Unique_Values
+Client_Num,object,0,10088
+Customer_Age,int64,0,49
+Gender,object,0,3
+Dependent_Count,int64,0,6
+Education_Level,object,0,6
+Marital_Status,object,0,5
+state_cd,object,0,10
+Zipcode,int64,0,9579
+Car_Owner,object,0,3
+House_Owner,object,0,2
+Personal_loan,object,0,3
+contact,object,0,3
+Customer_Job,object,0,8
+Income,float64,0,9705
+Cust_Satisfaction_Score,int64,0,5
