@@ -144,6 +144,6 @@ The customer dataset was inspected and cleaned for missing values, duplicate rec
 
 ## 🚀 Successfully Completed My Data Cleaning Project 🧹!
 Worked on a customer dataset and performed data quality checks, missing-value treatment, duplicate removal, data-type correction, and value standardization using 🐍Python & Pandas 📊💻.
-##📌 Project successfully uploaded to GitHub.
-##One more project added to my Data Analytics portfolio! 📊✨
-##🚀 Another step forward in my Data Analytics journey!
+📌 Project successfully uploaded to GitHub.
+One more project added to my Data Analytics portfolio! 📊✨
+🚀 Another step forward in my Data Analytics journey!
