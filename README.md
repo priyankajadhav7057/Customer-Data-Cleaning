@@ -1,10 +1,14 @@
-# Customer Data Cleaning
+# Customer Data Cleaning & Exploratory Data Analysis
 
 ## Project Overview
 
 This project focuses on identifying and cleaning data quality issues in a customer dataset containing approximately 10,108 customer records.
 
 The dataset was cleaned using Python and Pandas.
+The project includes two main tasks:
+
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
 
 ## Objectives
 
@@ -114,18 +118,20 @@ The cleaned dataset was checked again for:
 
 ```text
 Customer-Data-Cleaning/
+
 │
 ├── raw_data/
-│   └── customer_data.csv
+│   └── customer_data_10108_rows_15_columns.csv
 │
 ├── cleaned_data/
 │   └── customer_data_cleaned.csv
 │
 ├── reports/
-│   └── data_quality_report.csv
+│   ├── data_quality_report.csv
+│   └── eda_summary.csv
 │
-├── Data_Cleaning.py
-│
+├── cleaning.py
+├── eda.py
 └── README.md
 ```
 ## Output
@@ -137,6 +143,21 @@ cleaned_data/customer_data_cleaned.csv
 A data quality report is available in:
 
 reports/data_quality_report.csv
+
+The Exploratory Data Analysis summary is available in:
+
+`reports/eda_summary.csv`
+
+The EDA analysis includes:
+
+- Basic statistical analysis
+- Gender distribution
+- Education level distribution
+- Customer job distribution
+- Income distribution
+- Customer age group distribution
+- Customer satisfaction analysis
+- Age vs Income analysis
 
 ## Conclusion
 
